@@ -1,0 +1,6 @@
+{
+  "note": "Example XHTTP config. Replace all placeholder values before use.",
+  "domain": "example.com",
+  "uuid": "YOUR_UUID",
+  "path": "/YOUR_PATH"
+}
